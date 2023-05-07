@@ -1,0 +1,82 @@
+body {
+    margin: 0 auto;
+    padding: 40px 75px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    padding: 20px 0px 0px 0px;
+    font-family: "Poppins", sans-serif;
+}
+
+h2 {
+    font-family: "Poppins", sans-serif;
+}
+
+h3 {
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+}
+
+.sunicon {
+    font-size: 45px;
+}
+
+.currenttemp {
+    font-size: 40px;
+    line-height: 3;
+}
+
+.units {
+    font-size: 14px;
+    line-height: 5;
+}
+
+ul {
+    list-style: none;
+    font-size: 15px;
+}
+
+.weather-app {
+    border: 1px solid#084298 (45, 247, 190, 0.593);
+    background-image: url("https://lh3.googleusercontent.com/Pnnyxz3CfmYkvE-82HV3WHA5Rj0nuoA_dqFQqz9eTBmDg2IU1pbc9c5uZC-vWzaKwDakrjhkhcIDh2HeHLuWnnpDM_szEISXF2GDI-Bq7gitKoqnT5_p1CqyDhOR7J4U7WnsW0rbArDDlS2-O1stlvIDXygEIoFmhZXGhFSPVZ5UJeD25WJNN14C9xWTnuSbmb64tfqcXFNcO-MD4oPdK5DdXbyeq66lBZN1NKHbUJ3tGrh61Q2HpCQJcETP4UQpDtfHlWgxEzlddNYpWhGnnsWLVo2yahsTzXhFwKt5KgsmAlSA8yat8ATFhq9HiQP9-xmqF6OYfpFmGg414kDnKaWlIfoOput1StjSNbpVHrDq3EozXdU_u-YMjdRkvbccO3950Bafe2qvlKFXOAx1miYAds9OF2qycrE5lM7Xooq6fStnQABuqivQ5OmoLFveqssT40sg5AeTdQg262fNy4CHX4G9wqCBuPR6L82XJJHBtSTpK0jqEE1Ke1RIEGJCVtbpUxrTtzrpdyG0PUFVF3xGAMCc7_VcRmTRY1vACYOb7zBIv0zvmsLlluCppqyvGBScocZ8Pp0H5rqAdG7ofqxzjEwu1ZErMMZ8J-F8MXsv6Jo9n6Lie-9Qe3T4Gq5SWgIJ7K-hxvr2ipdV6Zh9ScH4uOH-YMcF2krDS82rG7KL8gG70AUi5fMxHOmY2DtUsoTomwXjm3fKjy7C1LvuKp8DgYtU71OyKK5YBD3RuL4T4r1RPrYUaQ_XmgvGcUFCNYVKlCMnkhTNOtnQPay2f_LkUEgd2jFs5RXkmVHMGB-sCkaebHNeNeC_U3DRXTYCGRMSqa2HxKdMMTt71fRng-Ffk0ygYnaZEA7Kk4NYfN-DMVMDc-zN6PSXCGMb6rwlzvDYgwY07w0dOlcNJynBFJl0I2XdaGfOGIgV-CRrJcr2Q_h9WIvyJRyz7DGzGCOWYT2CctB9gbg4sFtopUMl4WI=w744-h902-s-no?authuser=0");
+    background-size: cover;
+    background-color: #bdd7ef 25px;
+    margin: 20px auto;
+    max-width: 600px;
+    width: fit-content;
+
+}
+
+#search-form,
+span {
+    display: inline;
+}
+
+#current-location-button {
+    border-radius: 25px;
+}
+
+.weather-forecast {
+    padding: 15px 15px;
+    text-align: center;
+}
+
+.weather-forecast-temperatures {
+    font-size: 14px;
+    margin: 5px 5px;
+}
+
+.weather-forecast-temperature-min {
+    opacity: 0.6;
+}
+
+img {
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+}
